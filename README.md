@@ -1,1 +1,1 @@
-This is a repository of all practical and Lab projects related to Cyber Security 
+This is a repository of all the practical and lab projects related to Cyber Security 
